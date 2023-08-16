@@ -12,7 +12,7 @@ Bienvenido al repositorio **Afiliaciones en Departamentos**. Este proyecto tiene
 
 ## Capturas de Pantalla
 
-
+![Captura de Pantalla](https://github.com/MayelinAguilar/afiliaciones-en-departamentos/blob/main/Prueba%20BI.png)
 
 ## Instalación
 
